@@ -1,0 +1,8 @@
+2023-01-16 01:43:58.470 [info] Extension host agent started.
+2023-01-16 01:43:58.503 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kitoko/.vscode-server/extensions
+2023-01-16 01:43:58.516 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kitoko/.vscode-server/extensions
+2023-01-16 01:43:58.836 [info] [127.0.0.1][e9dc0f43][ManagementConnection] New connection established.
+2023-01-16 01:43:59.285 [info] [127.0.0.1][47c6e0ee][ExtensionHostConnection] New connection established.
+2023-01-16 01:43:59.439 [info] [127.0.0.1][47c6e0ee][ExtensionHostConnection] <3716> Launched Extension Host Process.
+2023-01-16 02:51:00.108 [info] [127.0.0.1][e9dc0f43][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-16 02:51:00.241 [info] [127.0.0.1][47c6e0ee][ExtensionHostConnection] <3716> Extension Host Process exited with code: 0, signal: null.

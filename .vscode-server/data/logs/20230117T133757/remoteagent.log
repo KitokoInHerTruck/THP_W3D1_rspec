@@ -1,0 +1,5 @@
+2023-01-17 13:37:57.592 [info] Extension host agent started.
+2023-01-17 13:37:57.787 [info] [127.0.0.1][27798da6][ManagementConnection] New connection established.
+2023-01-17 13:37:58.861 [info] [127.0.0.1][eb4a280c][ExtensionHostConnection] New connection established.
+2023-01-17 13:37:58.974 [info] [127.0.0.1][eb4a280c][ExtensionHostConnection] <6832> Launched Extension Host Process.
+2023-01-17 16:46:06.579 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

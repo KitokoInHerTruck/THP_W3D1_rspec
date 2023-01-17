@@ -1,0 +1,11 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.formatOnSave": true,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Cute",
+  "workbench.productIconTheme": "bootstrap-product-icons",
+  "tabnine.experimentalAutoImports": true,
+  "editor.accessibilitySupport": "on"
+}
